@@ -7,4 +7,4 @@
 ## 👉 **Logs**
 
 2026-05-07  
-  <img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/Google%20Skills/2026-05-07%2010_50_55-NVIDIA%20GeForce%20Overlay.jpg" width=800>   
+<img src="https://raw.githubusercontent.com/nov05/pictures/refs/heads/master/Google%20Skills/2026-05-07%2010_50_55-NVIDIA%20GeForce%20Overlay.jpg" width=800>    
